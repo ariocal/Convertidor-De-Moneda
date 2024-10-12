@@ -87,18 +87,18 @@ _Finaliza estos pasos con la creación del archivo JAR ejecutable:_
 ### Guia de funcionamiento ⌨️
 -Al ejecutar la aplicación se los desplegara una pantalla de opciones de las cuales podremos elegir una...
 ###### Ingresar opción.
-![Opcion 1](imagenes/paso1.jpg)
+![Opcion 1](imagenes/paso1.png)
 Una vez ingresada la opción, el programa nos permitira especificar cual es el monto que deseamos convertir.
 ###### Ingresar monto a convertir.
-![Opcion 2](imagenes/paso2.jpg) 
+![Opcion 2](imagenes/paso2.png) 
  
 Después de ingresar la cantidad nos aparecerá, el resultado de la conversión de la cual queríamos conocer su cambio, y vuelve a aparecer el menú inicial. Si deseamos realizar otra conversion podemos nuevamente elegir una opción que este dentro del menu...
 ###### Respuesta de la API
-![Opcion 3](imagenes/paso3.jpg)
+![Opcion 3](imagenes/paso3.png)
 
 Para salir del programa solo elegimos la opción numero 7 y se nos especificara que hemos salido del sistema de conversion. 
 ###### Salir del programa.
-![Opcion 4](imagenes/paso4.jpg)
+![Opcion 4](imagenes/paso4.png)
 
 
 
