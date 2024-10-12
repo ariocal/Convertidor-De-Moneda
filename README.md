@@ -86,10 +86,10 @@ _Finaliza estos pasos con la creación del archivo JAR ejecutable:_
 
 ### Guia de funcionamiento ⌨️
 -Al ejecutar la aplicación se los desplegara una pantalla de opciones de las cuales podremos elegir una...
-###### Ingresar opción.
+###### Pantalla principal.
 ![Opcion 1](imagenes/paso1.png)
 Una vez ingresada la opción, el programa nos permitira especificar cual es el monto que deseamos convertir.
-###### Ingresar monto a convertir.
+###### Ingresar opcion y monto a convertir.
 ![Opcion 2](imagenes/paso2.png) 
  
 Después de ingresar la cantidad nos aparecerá, el resultado de la conversión de la cual queríamos conocer su cambio, y vuelve a aparecer el menú inicial. Si deseamos realizar otra conversion podemos nuevamente elegir una opción que este dentro del menu...
