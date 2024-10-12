@@ -12,7 +12,7 @@ Mira **Despliegue** para conocer cómo desplegar el proyecto.
 
 _Para ejecutar este proyecto, necesitarás tener instalado lo siguiente:_
 
-- [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-jdk21-downloads.html) 21 o superior
+- [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/javase-jdk21-downloads.html) 17 o superior
 - [Maven](https://maven.apache.org/) (para gestionar las dependencias)
 
 #### Instalación en Windows
